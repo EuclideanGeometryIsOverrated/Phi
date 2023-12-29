@@ -4,7 +4,7 @@
 
 int main(int argc, char *argv[]){
 
-    // 1.6180339887498948
+    // 1.618033988749895
     std::cout << std::setprecision(16) << calcPhi();
 
     return 0;
